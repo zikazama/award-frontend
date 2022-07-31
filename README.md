@@ -11,6 +11,10 @@ Awards APP
 1. install depedency
 2. start app
 
+# Credentials
+
+- email : member@gmail.com
+
 # Stack
 
 - React
