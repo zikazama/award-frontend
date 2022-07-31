@@ -5,7 +5,7 @@ import Item from "../components/Item";
 
 export default function HomePage() {
   return (
-    <div>
+    <div style={{ paddingBottom: "30px" }}>
       <Navigation />
       <Item />
     </div>
